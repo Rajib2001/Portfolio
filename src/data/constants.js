@@ -1,5 +1,5 @@
 export const Bio = {
-  name: "Rajib Chauhan",
+  name: "Rajib Chauhan (प्यार से लोग मुझे❤️Rabiya कहते hai)",
   roles: [
     "Full Stack Developer",
     "UI/UX Designer",
@@ -11,7 +11,7 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/1ENAXYp65HMwEtaL4SpMRoxILCcDHTN7j/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/rajib-kumar-chauhan-1b1749203/",
-  twitter :"",
+  twitter :"https://x.com/Riyalover24",
   insta: "https://www.instagram.com/rabiya24_14/",
   facebook: "https://www.facebook.com/rajib.malhotra.315",
 };
